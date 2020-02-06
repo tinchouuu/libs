@@ -1,3 +1,3 @@
-module github.com/tinchouuu/libs
+module github.com/tinchouuu/libs/v2
 
 go 1.13
