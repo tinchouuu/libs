@@ -5,5 +5,5 @@ import (
 )
 
 func Log(msg string) {
-	log.Info(msg)
+	log.Info("[Custom Info Msg]"+msg)
 }
